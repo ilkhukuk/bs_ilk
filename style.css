@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.slide_img {
+  height: 100vh;
+}
+
+.nav-link:hover {
+  color: crimson;
+  scale: 1.1;
+}
+
+.hakkimizda {
+  height: 100vh;
+  background-color: rgb(218, 218, 218);
+}
+
+.icon_a {
+  width: 30%;
+  margin: 0 auto;
+  opacity: 1;
+  color: crimson;
+  border-bottom: 3px solid;
+}
+
+.icon_b {
+  position: relative;
+  top: -15px;
+  font-size: 18pt;
+  padding: 5px;
+  z-index: 2;
+  background-color: rgb(218, 218, 218);
+}
+
+.ekibimiz {
+  background-color: rgb(255, 220, 220);
+  height: auto;
+}
+
+.icon_c {
+  position: relative;
+  top: -15px;
+  font-size: 18pt;
+  padding: 5px;
+  z-index: 2;
+  background-color: rgb(255, 220, 220);
+}
+
+.ekip_card .card {
+  box-shadow: 5px 5px 8px 5px #666;
+}
+
+.ekip_card img {
+  width: auto;
+  height: 50vh;
+}
+
+.ekip_card img:hover {
+  opacity: 0.8;
+}
+
+.galeri {
+  background-color: rgb(220, 255, 243);
+  height: auto;
+}
+
+.icon_d {
+  position: relative;
+  top: -15px;
+  font-size: 18pt;
+  padding: 5px;
+  z-index: 2;
+  background-color: rgb(220, 255, 243);
+}
+
+.fotob {
+  height: 50vh;
+  width: 100%;
+}
+
+.fotoc {
+  height: 50vh;
+  width: 300px;
+}
+
+.iletisim{
+  height: 100vh;
+}
+
+.icon_e {
+  position: relative;
+  top: -15px;
+  font-size: 18pt;
+  padding: 5px;
+  z-index: 2;
+  background-color: white;
+}
